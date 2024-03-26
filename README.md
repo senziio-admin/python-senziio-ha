@@ -1,1 +1,1 @@
-Support libraries for the Theia device integration with Home Assistant
+Support libraries for the Senziio Theia device integration with Home Assistant
