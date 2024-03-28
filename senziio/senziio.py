@@ -3,7 +3,7 @@
 import asyncio
 import json
 import logging
-from abc import ABC
+from abc import ABC, abstractmethod
 
 logger = logging.getLogger(__name__)
 
